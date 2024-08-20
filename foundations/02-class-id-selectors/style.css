@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 206, 214);
+    font-family: 'Verdana', sans-serif;
+}
+
+#blu {
+    color: blue;
+    font-size: 36px;
+}
+
+#fs {
+    font-size: 26px;
+}
+
+#forth {
+    background-color: lightseagreen;
+    font-weight: bold;
+    font-size: 24px;
+}
